@@ -10,6 +10,6 @@ Survive defending your area as the ball gets faster.
 
 <br>
 
-Download the game in itch.io: https://cl4x.itch.io/pong-survival
+Download the game on itch.io: https://cl4x.itch.io/pong-survival
 
 
