@@ -3,6 +3,8 @@ Pong game survival mode
 
 My first game made in Lua using LÖVE Framework.
 
+
+Gameplay:
 Survive defending your area as the ball gets faster.
 
 
