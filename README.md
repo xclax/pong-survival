@@ -1,7 +1,7 @@
 # pong-survival
 Pong game survival mode
 
-My first game made in Lua using LÖVE Framework.
+
 <br>
 
 Gameplay:
